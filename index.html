@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>myworldbox</title>
+    <link rel="icon" href="/resources/images/VLlogo.png">
+    <link rel="manifest" href="/resources/manifest/manifest.json">
+</head>
+
+<style>
+    * {
+        overflow: hidden;
+        margin: 0 auto;
+        border: 0;
+    }
+
+    body>div,
+    iframe {
+        height: 100vh;
+        width: 100vw;
+    }
+
+    body>div>div {
+        padding: 1.4em;
+        color: white;
+    }
+
+    @media screen and (max-width: 450px) {
+        .slogan {
+            height: 35px;
+        }
+
+        body>div>div {
+            padding: 5px;
+        }
+    }
+</style>
+
+<body>
+    <div>
+        <iframe src="https://torchust.vercel.app/myworldbox">
+    </div>
+</body>
+
+</html>
