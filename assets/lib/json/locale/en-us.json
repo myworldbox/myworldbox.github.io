@@ -31,7 +31,9 @@
     "contact": {
       "github": "https://github.com/myworldbox",
       "meta": "https://www.facebook.com/myworldbox",
-      "youtube": "https://youtube.com/@myworldbox"
+      "youtube": "https://youtube.com/@myworldbox",
+      "stackoverflow": "https://stackoverflow.com/users/12192271/myworldbox",
+      "bitbucket": "https://bitbucket.org/myworldbox"
     }
   }
 }
