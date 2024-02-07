@@ -1,0 +1,37 @@
+{
+  "name": "myworldbox",
+  "description": "A Generic Dart-based Flutter Template",
+  "personal": {
+    "portrait": [
+      {
+        "path": "https://myworldbox.github.io/resource/image/portrait/VL_0.jpeg"
+      },
+      {
+        "path": "https://myworldbox.github.io/resource/image/portrait/VL_2.jpeg"
+      },
+      {
+        "path": "https://myworldbox.github.io/resource/image/portrait/VL_3.jpeg"
+      }
+    ],
+    "intro": "Victor Leung - VL | myworldbox\n\nHKUST - Computer Engineering\n\nAs a fervent enthusiast of the intricate fields of full-stack development and algorithmic trading, I am currently pursuing a degree in Computer Engineering at the esteemed HKUST. With an ardent desire to excel in my chosen career path, I am wholeheartedly compelled to pursue this opportunity with unwavering dedication.\n\nMy portfolio of accomplishments as a full-stack developer includes noteworthy contributions to reputable associations such as AWS Educate, HKUST Path Advisor, HKUST Poker Society, and USThing, all of which are considered among the most influential academic institutions.",
+    "project": [
+      {
+        "title": "COMP4971F - Independent Work",
+        "hint": "[A+]\n\nJan 2024 - Jan 2024\n\n- Triangular Arbitrage on Binance with Real Data Stream\n\n- It is implemented using both sequential and concurrent methodologies."
+      },
+      {
+        "title": "COMP4971C - Independent Work",
+        "hint": "[A+]\n\nJun 2023 - Aug 2023\n\n- Multiple Model-based Binary Classification for Forex Trading\n\n- Deployed with most models from sklearn"
+      },
+      {
+        "title": "CPEG4901 - Computer Engineering Final Year Project in COMP",
+        "hint": "[A]\n\nSep 2022 - May 2023\n\n- Machine Learning-based Quantitative Trading Strategies\n\n- Tested with Yahoo Finance and Interactive Broker API with Python"
+      }
+    ],
+    "contact": {
+      "github": "https://github.com/myworldbox",
+      "meta": "https://www.facebook.com/myworldbox",
+      "youtube": "https://youtube.com/@myworldbox"
+    }
+  }
+}
