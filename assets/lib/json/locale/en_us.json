@@ -26,6 +26,10 @@
       {
         "title": "CPEG4901 - Computer Engineering Final Year Project in COMP",
         "hint": "[A]\n\nSep 2022 - May 2023\n\n- Machine Learning-based Quantitative Trading Strategies\n\n- Tested with Yahoo Finance and Interactive Broker API with Python"
+      },
+      {
+        "title": "myworldbox",
+        "hint": "May 2016 - Oct 2019\n\n- Temporary ranked no.1 hottest game in the Gamelet dashboard in 2016, 2018, and 2019\n\n- Chaining game actions into multi-dimensional arrays to provide an RPG-like editor with map retrieval functionality\n\n- Ad-hoc Minecraft creator mode cloning inside Gamelet with (.twf) format"
       }
     ],
     "contact": {
