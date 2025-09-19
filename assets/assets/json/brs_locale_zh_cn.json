@@ -13,7 +13,9 @@
     "login_success": "登录成功",
     "login_failed": "登录失败",
     "no_book": "本中心没有书籍",
-    "store_success": "存储成功"
+    "no_center_code": "请设定中心代码",
+    "store_success": "存储成功",
+    "book_update": "书单已更新"
   },
   "/": {
     "start": "请按屏幕\n开始点餐",

@@ -13,7 +13,9 @@
     "login_success": "登入成功",
     "login_failed": "登入失敗",
     "no_book": "本中心沒有書籍",
-    "store_success": "儲存成功"
+    "no_center_code": "請設定中心代碼",
+    "store_success": "儲存成功",
+    "book_update": "書單已更新"
   },
   "/": {
     "start": "點擊開始",

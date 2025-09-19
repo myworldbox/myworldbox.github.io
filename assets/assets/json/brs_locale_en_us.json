@@ -13,7 +13,9 @@
     "login_success": "Login successful",
     "login_failed": "Login failed",
     "no_book": "This center has no books",
-    "store_success": "Stored successful"
+    "no_center_code": "Please set the center code",
+    "store_success": "Stored successful",
+    "book_update": "Book list updated"
   },
   "/": {
     "start": "Please press the screen\nto start ordering",
