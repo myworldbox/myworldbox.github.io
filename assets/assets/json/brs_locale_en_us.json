@@ -11,9 +11,22 @@
     "quit_app_content": "Are you sure you want to quit the application?",
     "empty": "cannot be empty",
     "login_success": "Login successful",
-    "login_failed": "Login failed"
+    "login_failed": "Login failed",
+    "no_book": "This center has no books",
+    "no_center_code": "Please set the center code",
+    "store_success": "Stored successful",
+    "book_update": "Book list updated"
   },
   "/": {
+    "start": "Please press the screen\nto start ordering",
+    "daily_book": "Daily Good Book",
+    "disclaimer": "Disclaimer: The book recommendations are for reference only. Please check the book details before borrowing or purchasing.",
+    "camera_topic": "Smile and take a photo",
+    "suggest_book": "recommend book",
+    "take_photo": "Take Photo",
+    "analyze_feature": "Analyze Feature"
+  },
+  "/camera/mirror": {
     "start": "Please press the screen\nto start ordering",
     "daily_book": "Daily Good Book",
     "disclaimer": "Disclaimer: The book recommendations are for reference only. Please check the book details before borrowing or purchasing.",
@@ -30,7 +43,7 @@
     "login_button": "Login",
     "forget_password": "Forget Password?"
   },
-  "/console/advice": {
+  "/suggestion/book": {
     "daily_book": "Good books recommended for you today",
     "book_name": "Book Name",
     "book_author": "Author",

@@ -11,9 +11,22 @@
     "quit_app_content": "您确定要退出该应用程式吗",
     "empty": "不能为空",
     "login_success": "登录成功",
-    "login_failed": "登录失败"
+    "login_failed": "登录失败",
+    "no_book": "本中心没有书籍",
+    "no_center_code": "请设定中心代码",
+    "store_success": "存储成功",
+    "book_update": "书单已更新"
   },
   "/": {
+    "start": "请按屏幕\n开始点餐",
+    "daily_book": "今日好书",
+    "disclaimer": "免责声明：书籍推荐仅供参考，请在借阅或购买前查阅书籍详情。",
+    "camera_topic": "微笑并拍照",
+    "suggest_book": "推荐好书",
+    "take_photo": "拍摄照片",
+    "analyze_feature": "分析特征"
+  },
+  "/camera/mirror": {
     "start": "请按屏幕\n开始点餐",
     "daily_book": "今日好书",
     "disclaimer": "免责声明：书籍推荐仅供参考，请在借阅或购买前查阅书籍详情。",
@@ -30,7 +43,7 @@
     "forget_password": "忘记密码？"
   },
   "/ai/book": {},
-  "/console/advice": {
+  "/suggestion/book": {
     "daily_book": "今日为您推介的好书",
     "book_name": "书名",
     "book_author": "作者",
