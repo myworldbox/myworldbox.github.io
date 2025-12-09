@@ -379,9 +379,9 @@
   },
   {
     "index": 64,
-    "label": "寧化飛灰\n\t不作浮塵",
-    "source": "後漢書·陳寔傳",
-    "author": "范曄"
+    "label": "是可忍\n\t孰不可忍",
+    "source": "論語·八佾",
+    "author": "孔子"
   },
   {
     "index": 65,
@@ -392,8 +392,8 @@
   {
     "index": 66,
     "label": "譬如遼東死\n\t斬頭何所傷",
-    "source": "後漢書·逸民傳",
-    "author": "范曄"
+    "source": "無向遼東浪死歌",
+    "author": "王薄"
   },
   {
     "index": 67,
@@ -470,25 +470,25 @@
   {
     "index": 79,
     "label": "帝陰養死士三千\n\t散在人間",
-    "source": "晉書‧景帝紀",
-    "author": "房玄齡"
+    "source": "晉書·帝紀第二",
+    "author": "佚名"
   },
   {
     "index": 80,
     "label": "斬木為兵\n\t揭竿為旗",
-    "source": "過秦論‧上篇",
+    "source": "過秦論·上篇",
     "author": "賈誼"
   },
   {
     "index": 81,
     "label": "屋漏偏逢連夜雨",
-    "source": "醒世恆言‧第三十五卷",
+    "source": "醒世恆言·第三十五卷",
     "author": "馮夢龍"
   },
   {
     "index": 82,
     "label": "怒髮衝冠\n\t憑欄處",
-    "source": "滿江紅‧寫懷",
+    "source": "滿江紅·寫懷",
     "author": "岳飛"
   },
   {
@@ -506,31 +506,31 @@
   {
     "index": 85,
     "label": "故禍莫憯於欲利\n\t悲莫痛於傷心",
-    "source": "報任少卿書",
+    "source": "史記·報任少卿書",
     "author": "司馬遷"
   },
   {
     "index": 86,
     "label": "轉鬭千里\n\t矢盡道窮",
-    "source": "報任少卿書",
+    "source": "史記·報任少卿書",
     "author": "司馬遷"
   },
   {
     "index": 87,
     "label": "若九牛亡一毛\n\t與螻螘何以異",
-    "source": "報任少卿書",
+    "source": "史記·報任少卿書",
     "author": "司馬遷"
   },
   {
     "index": 88,
     "label": "是以腸一日而九回\n\t居則忽忽若有所亡",
-    "source": "報任少卿書",
+    "source": "史記·報任少卿書",
     "author": "司馬遷"
   },
   {
     "index": 89,
     "label": "舉世皆濁\n\t何不隨其流而揚其波",
-    "source": "報任少卿書",
+    "source": "史記·屈原列傳",
     "author": "司馬遷"
   },
   {
@@ -548,13 +548,55 @@
   {
     "index": 92,
     "label": "知君何事淚縱橫\n\t斷腸聲裡憶平生",
-    "source": "浣溪沙‧殘雪凝輝冷畫屏",
+    "source": "浣溪沙·殘雪凝輝冷畫屏",
     "author": "納蘭性德"
   },
   {
     "index": 93,
     "label": "莫等閒\n\t白了少年頭",
-    "source": "滿江紅‧寫懷",
+    "source": "滿江紅·寫懷",
     "author": "岳飛"
+  },
+  {
+    "index": 94,
+    "label": "肉食者鄙\n\t未能遠謀",
+    "source": "曹劌論戰",
+    "author": "左丘明"
+  },
+  {
+    "index": 95,
+    "label": "巧言令色\n\t鮮矣仁",
+    "source": "論語·學而篇",
+    "author": "孔子"
+  },
+  {
+    "index": 96,
+    "label": "千夫所指\n\t無疾而死",
+    "source": "史記·李將軍列傳",
+    "author": "司馬遷"
+  },
+  {
+    "index": 97,
+    "label": "小不忍則亂大謀",
+    "source": "論語·衛靈公",
+    "author": "孔子"
+  },
+  {
+    "index": 98,
+    "label": "故天將降大任於是人也",
+    "source": "孟子·告子章句下",
+    "author": "孟子"
+  },
+  {
+    "index": 99,
+    "label": "苟利國家生死以\n\t豈因禍福避趨之",
+    "source": "赴戍登程口占示家人·二首",
+    "author": "林則徐"
+  },
+  {
+    "index": 100,
+    "label": "蛟龍得雲雨\n\t非復池中物",
+    "source": "晉書·載記第一",
+    "author": "佚名"
   }
 ]
