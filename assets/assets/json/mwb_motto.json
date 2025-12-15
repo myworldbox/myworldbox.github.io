@@ -67,7 +67,7 @@
   },
   {
     "index": 12,
-    "label": "司馬昭之心\n\t路人所知也",
+    "label": "司馬昭之心\n\t路人皆知也",
     "source": "三國志·魏書·高貴鄉公紀",
     "author": "陳壽"
   },
@@ -471,7 +471,7 @@
     "index": 79,
     "label": "帝陰養死士三千\n\t散在人間",
     "source": "晉書·帝紀第二",
-    "author": "佚名"
+    "author": null
   },
   {
     "index": 80,
@@ -597,6 +597,6 @@
     "index": 100,
     "label": "蛟龍得雲雨\n\t非復池中物",
     "source": "晉書·載記第一",
-    "author": "佚名"
+    "author": null
   }
 ]
