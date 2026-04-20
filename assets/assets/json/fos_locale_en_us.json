@@ -2,7 +2,15 @@
   "company_name": "Hong Kong Sheng Kung Hui Welfare Council Limited",
   "exist": "Exit",
   "/": {
-    "start": "Please press the screen\nto start ordering"
+    "start": "Please press the screen\nto start ordering",
+    "hero_tag": "DINING OPS",
+    "hero_desc": "Counter login, voice prompting, and route handoff as a cleaner service console.",
+    "btn_voice": "Voice Prompt",
+    "chip_kiosk": "Fast kiosk entry",
+    "chip_voice": "Voice prompt handoff",
+    "chip_shell": "Shared shell chrome",
+    "chip_stage": "Effect-backed landing stage",
+    "wave_label": "Service Flow"
   },
   "/auth/login": {
     "system_login": "System Login",

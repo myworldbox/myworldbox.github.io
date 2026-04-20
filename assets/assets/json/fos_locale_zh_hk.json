@@ -2,7 +2,15 @@
     "company_name": "香港聖公會福利栛會有限公司",
     "exist": "離開",
     "/": {
-        "start": "請按螢幕\n開始點餐"
+        "start": "請按螢幕\n開始點餐",
+        "hero_tag": "餐飲運作",
+        "hero_desc": "櫃台登入、語音提示及路由切換，整合為更清晰的服務控制台。",
+        "btn_voice": "語音提示",
+        "chip_kiosk": "快速自助登入",
+        "chip_voice": "語音提示切換",
+        "chip_shell": "共享框架介面",
+        "chip_stage": "特效著陸舞台",
+        "wave_label": "服務流程"
     },
     "/auth/login": {
         "system_login": "登入系統",
