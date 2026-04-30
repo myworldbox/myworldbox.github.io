@@ -4,12 +4,12 @@
   "/": {
     "start": "请按屏幕\n开始点餐",
     "hero_tag": "餐饮运作",
-    "hero_desc": "柜台登入、语音提示及路由切换，整合为更清晰的服务控制台。",
+    "hero_desc": "柜台登入、语音引导与点餐切换，整合成紧凑顺畅的服务流程。",
     "btn_voice": "语音提示",
     "chip_kiosk": "快速自助登入",
     "chip_voice": "语音提示切换",
-    "chip_shell": "共享框架界面",
-    "chip_stage": "特效着陆舞台",
+    "chip_shell": "紧凑导航",
+    "chip_stage": "品牌动态界面",
     "wave_label": "服务流程"
   },
   "/auth/login": {

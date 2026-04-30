@@ -4,12 +4,12 @@
   "/": {
     "start": "Please press the screen\nto start ordering",
     "hero_tag": "DINING OPS",
-    "hero_desc": "Counter login, voice prompting, and route handoff as a cleaner service console.",
+    "hero_desc": "Counter login, voice guidance, and ordering handoff in one compact service flow.",
     "btn_voice": "Voice Prompt",
     "chip_kiosk": "Fast kiosk entry",
     "chip_voice": "Voice prompt handoff",
-    "chip_shell": "Shared shell chrome",
-    "chip_stage": "Effect-backed landing stage",
+    "chip_shell": "Compact navigation",
+    "chip_stage": "Branded motion surface",
     "wave_label": "Service Flow"
   },
   "/auth/login": {
