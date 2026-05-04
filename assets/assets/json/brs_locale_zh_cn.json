@@ -50,7 +50,16 @@
     "password": "密码",
     "login_topic": "用户登录",
     "login_button": "登录",
-    "forget_password": "忘记密码？"
+    "forget_password": "忘记密码？",
+    "access_tag": "ACCESS / BRS",
+    "hero_desc_short": "书籍推荐入口更清晰、更直接。",
+    "sub_desc": "输入登录凭证，直接进入设置页面，继续经典内容的流程。",
+    "hero_desc_wide": "阅读门户的快速操作员入口。",
+    "sub_desc_wide": "登录、恢复偷好设置，不需额外步骤，直接继续工作局面。",
+    "chip_credentials": "登录凭证",
+    "chip_reading_sync": "阅读同步",
+    "chip_session_resume": "工作区恢复",
+    "btn_back": "返回门户"
   },
   "/ai/book": {},
   "/suggestion/book": {

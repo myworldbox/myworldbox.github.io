@@ -21,6 +21,11 @@
         "scan_code": "掃描會員代碼",
         "member_code": "會員代碼"
     },
+    "/auth/logout": {
+        "topic": "登出",
+        "confirm_text": "確定要登出嗎？",
+        "btn_logout": "登出"
+    },
     "/menu/login": {
         "welcome": "{user.name}，\n歡迎你!",
         "question": "是你嗎?"

@@ -2,6 +2,7 @@
   "company_name": "香港圣公会福利协会有限公司",
   "exist": "离开",
   "back": "返回",
+  "confirm": "确认",
   "routes": "导航",
   "copyright": "版权所有 © 2025 {project.name}。",
   "reserve_right": "保留所有权利。",
@@ -24,15 +25,36 @@
     "scan_card": "请按图标拍卡",
     "camera_scan": "相机扫描",
     "scan_code": "扫描会员代码",
-    "member_code": "会员代码"
+    "member_code": "会员代码",
+    "login_button": "登录",
+    "register": "注册",
+    "forget_password": "忘记密码？",
+    "remember_me": "记住此次登录"
   },
-  "/auth/register": {},
+  "/auth/register": {
+    "register": "注册",
+    "sign_in": "登录",
+    "forget_password": "忘记密码？"
+  },
   "/auth/verification": {},
-  "/auth/forget_password": {},
-  "/auth/reset_password": {},
-  "/user/setting": {},
+  "/auth/forget_password": {
+    "topic": "忘记密码",
+    "sub_text": "请输入电邮以接收重设链接"
+  },
+  "/auth/reset_password": {
+    "topic": "重设密码",
+    "sub_text": "请在下方输入新密码"
+  },
+  "/user/setting": {
+    "update_auth": "更新账号资料",
+    "update_user": "更新用户资料",
+    "delete_account": "删除账号",
+    "logout": "登出"
+  },
   "/user/update_auth": {},
-  "/user/update_user": {},
+  "/user/update_user": {
+    "email_subscription": "订阅官方活动"
+  },
   "/menu/login": {
     "welcome": "{user.name}，\n欢迎你!",
     "question": "是你吗?"

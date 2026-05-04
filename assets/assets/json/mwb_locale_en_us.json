@@ -2,6 +2,7 @@
   "company_name": "myworldbox",
   "exist": "Exit",
   "back": "Back",
+  "confirm": "Confirm",
   "routes": "Navigation",
   "copyright": "Copyright © 2025 {project.name}.",
   "reserve_right": "All rights reserved.",
@@ -24,15 +25,36 @@
     "scan_card": "Please press the icon to scan card",
     "camera_scan": "Camera scan",
     "scan_code": "Scan member code",
-    "member_code": "member code"
+    "member_code": "member code",
+    "login_button": "Sign In",
+    "register": "Register",
+    "forget_password": "Forgot Password?",
+    "remember_me": "Keep this session warm"
   },
-  "/auth/register": {},
+  "/auth/register": {
+    "register": "Register",
+    "sign_in": "Sign In",
+    "forget_password": "Forgot Password?"
+  },
   "/auth/verification": {},
-  "/auth/forget_password": {},
-  "/auth/reset_password": {},
-  "/user/setting": {},
+  "/auth/forget_password": {
+    "topic": "Forgot Password",
+    "sub_text": "Enter your email to receive a reset link"
+  },
+  "/auth/reset_password": {
+    "topic": "Reset Password",
+    "sub_text": "Enter your new password below"
+  },
+  "/user/setting": {
+    "update_auth": "Update Auth Info",
+    "update_user": "Update User Info",
+    "delete_account": "Delete Account",
+    "logout": "Logout"
+  },
   "/user/update_auth": {},
-  "/user/update_user": {},
+  "/user/update_user": {
+    "email_subscription": "Subscribe To Official Event"
+  },
   "/menu/login": {
     "welcome": "{user.name},\nWelcome!",
     "question": "Is this you?"

@@ -51,7 +51,16 @@
     "password": "密碼",
     "login_topic": "用戶登入",
     "login_button": "登入",
-    "forget_password": "忘記密碼？"
+    "forget_password": "忘記密碼？",
+    "access_tag": "ACCESS / BRS",
+    "hero_desc_short": "書籍推薦入口更清晰、更直接。",
+    "sub_desc": "輸入登入資料，直接進入設定頁面，繼續經典內容的流程。",
+    "hero_desc_wide": "閱讀門戶的快速操作員入口。",
+    "sub_desc_wide": "登入、恢復偵好設定，不需額外步驟，直接繼續工作局面。",
+    "chip_credentials": "登入資料",
+    "chip_reading_sync": "閱讀同步",
+    "chip_session_resume": "工作區恰復",
+    "btn_back": "返回門戶"
   },
   "/suggestion/book": {
     "daily_book": "今日為您推介的好書",

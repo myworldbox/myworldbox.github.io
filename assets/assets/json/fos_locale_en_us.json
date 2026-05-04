@@ -21,6 +21,11 @@
     "scan_code": "Scan member code",
     "member_code": "member code"
   },
+  "/auth/logout": {
+    "topic": "Log Out",
+    "confirm_text": "Are you sure you want to log out?",
+    "btn_logout": "Log Out"
+  },
   "/menu/login": {
     "welcome": "{user.name},\nWelcome!",
     "question": "Is this you?"

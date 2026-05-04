@@ -21,6 +21,11 @@
     "scan_code": "扫描会员代码",
     "member_code": "会员代码"
   },
+  "/auth/logout": {
+    "topic": "登出",
+    "confirm_text": "确定要登出吗？",
+    "btn_logout": "登出"
+  },
   "/menu/login": {
     "welcome": "{user.name}，\n欢迎你!",
     "question": "是你吗?"

@@ -51,7 +51,16 @@
     "password": "Password",
     "login_topic": "User Login",
     "login_button": "Login",
-    "forget_password": "Forget Password?"
+    "forget_password": "Forget Password?",
+    "access_tag": "ACCESS / BRS",
+    "hero_desc_short": "Recommendation access is now cleaner and more direct.",
+    "sub_desc": "Enter credentials, land in the settings deck, and continue the narrative flow.",
+    "hero_desc_wide": "Fast operator access to the reading portal.",
+    "sub_desc_wide": "Sign in, recover preferences, and continue the session without extra layers.",
+    "chip_credentials": "Credentials",
+    "chip_reading_sync": "Reading Sync",
+    "chip_session_resume": "Session Resume",
+    "btn_back": "Back To Portal"
   },
   "/suggestion/book": {
     "daily_book": "Good books recommended for you today",
