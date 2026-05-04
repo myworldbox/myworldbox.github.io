@@ -1,6 +1,8 @@
 {
   "company_name": "我的世界",
   "exist": "離開",
+  "back": "返回",
+  "routes": "導航",
   "copyright": "版權所有 © 2025 {project.name}。",
   "reserve_right": "保留所有權利。",
   "alert": {

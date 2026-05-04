@@ -1,6 +1,8 @@
 {
   "company_name": "Hong Kong Sheng Kung Hui Welfare Council Limited",
   "exist": "Exit",
+  "back": "Back",
+  "routes": "Navigation",
   "/": {
     "start": "Please press the screen\nto start ordering",
     "hero_tag": "DINING OPS",

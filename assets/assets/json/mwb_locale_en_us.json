@@ -1,6 +1,8 @@
 {
   "company_name": "myworldbox",
   "exist": "Exit",
+  "back": "Back",
+  "routes": "Navigation",
   "copyright": "Copyright © 2025 {project.name}.",
   "reserve_right": "All rights reserved.",
   "alert": {

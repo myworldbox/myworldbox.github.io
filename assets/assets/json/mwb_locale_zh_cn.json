@@ -1,6 +1,8 @@
 {
   "company_name": "香港圣公会福利协会有限公司",
   "exist": "离开",
+  "back": "返回",
+  "routes": "导航",
   "copyright": "版权所有 © 2025 {project.name}。",
   "reserve_right": "保留所有权利。",
   "alert": {
