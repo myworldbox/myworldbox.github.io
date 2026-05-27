@@ -3,6 +3,10 @@
     "exist": "離開",
     "back": "返回",
     "routes": "導航",
+    "navigation": "導航",
+    "home": "首頁",
+    "shell_title": "操作介面",
+    "shell_desc": "緊湊導覽、快速瀏覽與清晰層級。",
     "/": {
         "start": "請按螢幕\n開始點餐",
         "hero_tag": "餐飲運作",
@@ -12,7 +16,13 @@
         "chip_voice": "語音提示切換",
         "chip_shell": "緊湊導覽",
         "chip_stage": "品牌動態介面",
-        "wave_label": "服務流程"
+        "wave_label": "服務流程",
+        "metric_entry_l": "服務入口",
+        "metric_entry_v": "櫃台與語音",
+        "metric_scan_l": "首個步驟",
+        "metric_scan_v": "掃碼或登入",
+        "metric_checkout_l": "下一步",
+        "metric_checkout_v": "餐單與結帳"
     },
     "/auth/login": {
         "system_login": "登入系統",

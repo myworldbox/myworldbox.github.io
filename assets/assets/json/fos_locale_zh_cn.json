@@ -3,6 +3,10 @@
   "exist": "离开",
   "back": "返回",
   "routes": "导航",
+  "navigation": "导航",
+  "home": "首页",
+  "shell_title": "操作界面",
+  "shell_desc": "紧凑导航、快速浏览与清晰层级。",
   "/": {
     "start": "请按屏幕\n开始点餐",
     "hero_tag": "餐饮运作",
@@ -12,7 +16,13 @@
     "chip_voice": "语音提示切换",
     "chip_shell": "紧凑导航",
     "chip_stage": "品牌动态界面",
-    "wave_label": "服务流程"
+    "wave_label": "服务流程",
+    "metric_entry_l": "服务入口",
+    "metric_entry_v": "柜台与语音",
+    "metric_scan_l": "首个步骤",
+    "metric_scan_v": "扫码或登录",
+    "metric_checkout_l": "下个步骤",
+    "metric_checkout_v": "菜单与结账"
   },
   "/auth/login": {
     "system_login": "登录系统",

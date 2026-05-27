@@ -3,6 +3,10 @@
   "exist": "Exit",
   "back": "Back",
   "routes": "Navigation",
+  "navigation": "Navigation",
+  "home": "Home",
+  "shell_title": "Operational surface",
+  "shell_desc": "Compact navigation, faster scanning, and clearer hierarchy.",
   "/": {
     "start": "Please press the screen\nto start ordering",
     "hero_tag": "DINING OPS",
@@ -12,7 +16,13 @@
     "chip_voice": "Voice prompt handoff",
     "chip_shell": "Compact navigation",
     "chip_stage": "Branded motion surface",
-    "wave_label": "Service Flow"
+    "wave_label": "Service Flow",
+    "metric_entry_l": "Service Entry",
+    "metric_entry_v": "Counter and voice",
+    "metric_scan_l": "First Step",
+    "metric_scan_v": "Scan or sign in",
+    "metric_checkout_l": "Next Step",
+    "metric_checkout_v": "Menu and checkout"
   },
   "/auth/login": {
     "system_login": "System Login",
